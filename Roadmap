@@ -11,7 +11,7 @@ The project is divided into clear phases to ensure structured development and co
 - [x] Define project scope and objectives  
 - [x] Create GitHub repository and folder structure  
 - [x] Draft README.md and requirements.txt  
-- [ ] Install core libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `tkinter`  
+- [ ] Install core libraries: `pandas`, `numpy` 
 - [ ] Set up version control and initial commits  
   
 
