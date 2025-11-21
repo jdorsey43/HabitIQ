@@ -20,9 +20,9 @@ The project is divided into clear phases to ensure structured development and co
 ## 2: Core Functionality Development
 **Goals:** Build the basic system for tracking and storing user habits.  
 **Tasks:**
-- [ ] Develop user input system (Tkinter GUI or CLI)  
+- [ ] Develop user input system  
 - [ ] Create habit logging for name, time, mood, and energy  
-- [ ] Implement data storage using CSV or SQLite  
+- [ ] Implement data storage using  
 - [ ] Add basic validation and data management functions  
   
 
